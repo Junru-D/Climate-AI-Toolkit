@@ -22,9 +22,10 @@
    python models/clustering.py
 
 ## 📂 Project Structure
-📂 climate-ai-toolkit
---├── 📄 README.md--
-**├── 📂 data ← Climate datasets**
+   ``` css
+   📂 climate-ai-toolkit
+├── 📄 README.md
+├── 📂 data ← Climate datasets
 | ├── nyc_climate.csv ← NOAA weather data
 ├── 📂 models ← Machine learning models
 │ ├── regression.py ← Temperature prediction
