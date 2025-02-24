@@ -23,7 +23,7 @@
 
 ## 📂 Project Structure
    ``` css
-📂 climate-ai-toolkit
+📂 climate-ml-toolkit
 ├── 📄 README.md
 ├── 📂 data ← Climate datasets
 | ├── nyc_climate.csv ← NOAA weather data
@@ -35,5 +35,4 @@
 │ ├── regression.ipynb ← Regression analysis
 │ ├── classification.ipynb ← Classification notebook
 │ ├── clustering.ipynb ← Clustering notebook
-├── 📄 requirements.txt ← Dependencies
-├── 📄 main.py ← Main entry script
+
