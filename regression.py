@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load NOAA climate data
-file_path = "/content/3941605.csv"  # 👉 Replace with your actual CSV file name
+file_path = "/content/nyc_climate.csv"  # 👉 Replace with your actual CSV file name
 df = pd.read_csv(file_path)
 
 # Data preprocessing
