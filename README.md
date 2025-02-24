@@ -20,3 +20,20 @@
 4. Run clustering analysis:
    ```bash
    python models/clustering.py
+
+## 📂 Project Structure
+📂 climate-ai-toolkit
+ ├── 📄 README.md
+ ├── 📂 data                  ← Climate datasets
+ │    ├── nyc_climate.csv     ← NOAA weather data
+ ├── 📂 models                ← Machine learning models
+ │    ├── regression.py       ← Temperature prediction
+ │    ├── classification.py   ← Weather classification
+ │    ├── clustering.py       ← Hierarchical clustering
+ ├── 📂 notebooks             ← Jupyter Notebooks version
+ │    ├── regression.ipynb    ← Regression analysis
+ │    ├── classification.ipynb ← Classification notebook
+ │    ├── clustering.ipynb    ← Clustering notebook
+ ├── 📄 requirements.txt      ← Dependencies
+ ├── 📄 main.py               ← Main entry script
+
