@@ -1,7 +1,12 @@
 # Climate-AI-Toolkit
 🌍 A comprehensive AI toolkit for climate data analysis, integrating Regression, Classification, and Clustering methods to analyze and predict temperature trends using NOAA data.
 
-## 📊 Features
+## 📊 Dataset
+- **Source:** [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)
+- **File:** `data/nyc_climate.csv`
+- **Description:** This dataset contains daily average temperature and precipitation for New York City from 2018 to 2023.
+
+## 🔧 Features
 - **Regression (Forecasting)** → Predicts future temperatures using Decision Tree & Random Forest.
 - **Classification (Weather Categories)** → Classifies days as Cold, Mild, or Hot using Naive Bayes.
 - **Clustering (Seasonal Pattern Detection)** → Identifies weather patterns using Hierarchical Clustering.
