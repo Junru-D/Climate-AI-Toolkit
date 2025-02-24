@@ -1,5 +1,5 @@
-# Climate-AI-Toolkit
-🌍 A comprehensive AI toolkit for climate data analysis, integrating Regression, Classification, and Clustering methods to analyze and predict temperature trends using NOAA data.
+# Climate-ML-Toolkit
+🌍 A comprehensive machine learning toolkit for climate data analysis, integrating Regression, Classification, and Clustering methods to analyze and predict temperature trends using NOAA data.
 
 ## 📊 Features
 - **Regression (Forecasting)** → Predicts future temperatures using Decision Tree & Random Forest.
