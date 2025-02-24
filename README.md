@@ -23,9 +23,12 @@
 
 ## 📂 Project Structure
 📂 climate-ai-toolkit
+
 ├── 📄 README.md
+
 ├── 📂 data ← Climate datasets
-│ ├── nyc_climate.csv ← NOAA weather data
+
+| ├── nyc_climate.csv ← NOAA weather data
 ├── 📂 models ← Machine learning models
 │ ├── regression.py ← Temperature prediction
 │ ├── classification.py ← Weather classification
