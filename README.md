@@ -23,7 +23,7 @@
 
 ## 📂 Project Structure
    ``` css
-   📂 climate-ai-toolkit
+📂 climate-ai-toolkit
 ├── 📄 README.md
 ├── 📂 data ← Climate datasets
 | ├── nyc_climate.csv ← NOAA weather data
